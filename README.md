@@ -50,7 +50,7 @@ Save hours of setup time by starting with a complete authentication and CRUD fou
 ```text
 fullstack-starter-kit/
 │
-├─
+|
 ├── controller/
 ├── service/
 ├── repository/
